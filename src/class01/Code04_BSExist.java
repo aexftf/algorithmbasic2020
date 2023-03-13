@@ -24,7 +24,20 @@ public class Code04_BSExist {
 		}
 		return sortedArr[L] == num;
 	}
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	// for test
 	public static boolean test(int[] sortedArr, int num) {
 		for(int cur : sortedArr) {
@@ -44,7 +57,23 @@ public class Code04_BSExist {
 		}
 		return arr;
 	}
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	public static void main(String[] args) {
 		int testTime = 500000;
 		int maxSize = 10;
